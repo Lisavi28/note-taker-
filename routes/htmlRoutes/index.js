@@ -10,11 +10,7 @@ router.get('/notes', (req, res) => {
 });
 
 
-// router.get('/aquarium', (req, res) => {
-//   res.sendFile(path.join(__dirname, '../../public/aquarium.html'));
-// });
-
- router.get('*', (req, res) => {
+router.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, '../../public/index.html'));
 });
 
