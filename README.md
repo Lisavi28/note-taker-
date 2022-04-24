@@ -10,8 +10,10 @@ No installation required.
 
  You can run it using this link https://evening-temple-93523.herokuapp.com
 
- ![note0] (https://github.com/Lisavi28/note-taker-/blob/develop/public/assets/images/note0.PNG)
- ![note] (https://github.com/Lisavi28/note-taker-/blob/develop/public/assets/images/note.PNG)
+ ![note0](https://github.com/Lisavi28/note-taker-/blob/develop/public/assets/images/note0.PNG)
+
+
+ ![note](https://github.com/Lisavi28/note-taker-/blob/develop/public/assets/images/note.PNG)
  
 # Contributing
 
